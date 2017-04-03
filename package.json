@@ -1,3 +1,23 @@
-"scripts": {
-        "start": "node app.js",
-    },
+{
+  "name": "katbot",
+  "version": "1.0.0",
+  "description": "my first chatbot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Witty-Kitty/katbot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "witty-kitty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Witty-Kitty/katbot/issues"
+  },
+  "homepage": "https://github.com/Witty-Kitty/katbot#readme"
+}
